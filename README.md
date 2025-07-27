@@ -7,7 +7,7 @@
 💡 Passionate about turning data into meaningful insights  
 📂 All my projects are available here on [GitHub](https://github.com/poojitha575)
 
-📬 How to reach me: **your.email@example.com**
+📬 How to reach me: **poojithakoduri656@gmail.com**
 
 ---
 
