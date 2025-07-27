@@ -1,16 +1,15 @@
-## Hi there 👋
+ 
 
-<!--
-**poojitha575/poojitha575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Koduri Poojitha
 
-Here are some ideas to get you started:
+🎯 Aspiring Data Analyst from India  
+📊 Skilled in **SQL, Excel, Python, Power BI**  
+💡 Passionate about turning data into meaningful insights  
+📂 All my projects are available here on [GitHub](https://github.com/poojitha575)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 How to reach me: **your.email@example.com**
+
+---
+
+**Connect with me**  
+[ ](https://www.linkedin.com/in/koduri-poojitha/)
