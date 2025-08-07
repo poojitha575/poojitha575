@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Koduri Poojitha
 
-🎯 Aspiring Data Analyst from India  
+🎯 Aspiring Data Analyst 
 📊 Skilled in **SQL, Excel, Python, Power BI**  
 💡 Passionate about turning data into meaningful insights  
 📂 All my projects are available here on [GitHub](https://github.com/poojitha575)
